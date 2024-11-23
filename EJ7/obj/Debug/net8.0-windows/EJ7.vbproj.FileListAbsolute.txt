@@ -1,0 +1,17 @@
+C:\Users\isabe\source\repos\EJ7\bin\Debug\net8.0-windows\EJ7.exe
+C:\Users\isabe\source\repos\EJ7\bin\Debug\net8.0-windows\EJ7.deps.json
+C:\Users\isabe\source\repos\EJ7\bin\Debug\net8.0-windows\EJ7.runtimeconfig.json
+C:\Users\isabe\source\repos\EJ7\bin\Debug\net8.0-windows\EJ7.dll
+C:\Users\isabe\source\repos\EJ7\bin\Debug\net8.0-windows\EJ7.pdb
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.Form1.resources
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.Resources.resources
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.vbproj.GenerateResource.cache
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.AssemblyInfo.vb
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.vbproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.dll
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\refint\EJ7.dll
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.pdb
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\EJ7.genruntimeconfig.cache
+C:\Users\isabe\source\repos\EJ7\obj\Debug\net8.0-windows\ref\EJ7.dll

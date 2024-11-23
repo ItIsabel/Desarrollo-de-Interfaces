@@ -1,0 +1,25 @@
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\bin\Debug\net8.0-windows\Reproductor musica.exe
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\bin\Debug\net8.0-windows\Reproductor musica.deps.json
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\bin\Debug\net8.0-windows\Reproductor musica.runtimeconfig.json
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\bin\Debug\net8.0-windows\Reproductor musica.dll
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\bin\Debug\net8.0-windows\Reproductor musica.pdb
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor_musica.Form1.resources
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.vbproj.GenerateResource.cache
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.AssemblyInfo.vb
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.vbproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.dll
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\refint\Reproductor musica.dll
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.pdb
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.genruntimeconfig.cache
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\ref\Reproductor musica.dll
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor_musica.Resources.resources
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor musica.vbproj.ResolveComReference.cache
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor_musica.FormBuscar.resources
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor_musica.FormGuardar.resources
+C:\Users\isabe\source\repos\Reproductor musica\Reproductor musica\obj\Debug\net8.0-windows\Reproductor_musica.FormImportar.resources

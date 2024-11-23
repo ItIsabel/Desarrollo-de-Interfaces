@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|c:\\users\\isabe\\source\\repos\\reproductor musica\\reproductor musica\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|solutionrelative:reproductor musica\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|c:\\users\\isabe\\source\\repos\\reproductor musica\\reproductor musica\\formimportar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|solutionrelative:reproductor musica\\formimportar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|c:\\users\\isabe\\source\\repos\\reproductor musica\\reproductor musica\\formbuscar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|solutionrelative:reproductor musica\\formbuscar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|c:\\users\\isabe\\source\\repos\\reproductor musica\\reproductor musica\\formguardar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|solutionrelative:reproductor musica\\formguardar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|c:\\users\\isabe\\source\\repos\\reproductor musica\\reproductor musica\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|solutionrelative:reproductor musica\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|c:\\users\\isabe\\source\\repos\\reproductor musica\\reproductor musica\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|solutionrelative:reproductor musica\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|c:\\users\\isabe\\source\\repos\\reproductor musica\\reproductor musica\\formguardar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|solutionrelative:reproductor musica\\formguardar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|c:\\users\\isabe\\source\\repos\\reproductor musica\\reproductor musica\\formimportar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4BBCA93E-BAF6-4CD8-A594-C193A08CB5A5}|Reproductor musica\\Reproductor musica.vbproj|solutionrelative:reproductor musica\\formimportar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGuardar.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormGuardar.vb",
+              "RelativeDocumentMoniker": "Reproductor musica\\FormGuardar.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormGuardar.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Reproductor musica\\FormGuardar.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T08:46:41.092Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormImportar.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormImportar.vb",
+              "RelativeDocumentMoniker": "Reproductor musica\\FormImportar.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormImportar.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Reproductor musica\\FormImportar.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T09:12:41.82Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\Form1.vb",
+              "RelativeDocumentMoniker": "Reproductor musica\\Form1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\Form1.vb",
+              "RelativeToolTip": "Reproductor musica\\Form1.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T07:24:09.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBuscar.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormBuscar.vb",
+              "RelativeDocumentMoniker": "Reproductor musica\\FormBuscar.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormBuscar.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Reproductor musica\\FormBuscar.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T09:09:19.111Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\Form1.vb",
+              "RelativeDocumentMoniker": "Reproductor musica\\Form1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Reproductor musica\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:39:18.955Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormGuardar.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormGuardar.vb",
+              "RelativeDocumentMoniker": "Reproductor musica\\FormGuardar.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormGuardar.vb",
+              "RelativeToolTip": "Reproductor musica\\FormGuardar.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T08:47:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Reproductor musica\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\Form1.Designer.vb",
+              "RelativeToolTip": "Reproductor musica\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T09:18:53.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormImportar.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormImportar.vb",
+              "RelativeDocumentMoniker": "Reproductor musica\\FormImportar.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Reproductor musica\\Reproductor musica\\FormImportar.vb",
+              "RelativeToolTip": "Reproductor musica\\FormImportar.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T09:15:54.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

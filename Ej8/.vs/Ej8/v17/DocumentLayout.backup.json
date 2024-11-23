@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\source\\repos\\Ej8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|C:\\Users\\isabe\\source\\repos\\Ej8\\ej8\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|C:\\Users\\isabe\\source\\repos\\Ej8\\ej8\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|C:\\Users\\isabe\\source\\repos\\Ej8\\ej8\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|C:\\Users\\isabe\\source\\repos\\Ej8\\ej8\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|c:\\users\\isabe\\source\\repos\\ej8\\ej8\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|C:\\Users\\isabe\\source\\repos\\Ej8\\ej8\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|C:\\Users\\isabe\\source\\repos\\Ej8\\ej8\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|C:\\Users\\isabe\\source\\repos\\Ej8\\ej8\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|C:\\Users\\isabe\\source\\repos\\Ej8\\ej8\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5C720AA8-FFB8-4A4D-9BAC-666A73722F6E}|Ej8\\Ej8.vbproj|solutionrelative:ej8\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form2.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form2.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ej8\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T10:45:11.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form1.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form1.vb",
+              "RelativeToolTip": "Ej8\\Form1.vb",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T10:34:55.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form7.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form7.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form7.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form7.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ej8\\Form7.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T11:30:14.133Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form7.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form7.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form7.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form7.vb",
+              "RelativeToolTip": "Ej8\\Form7.vb",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwNwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T11:35:38.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form6.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form6.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form6.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form6.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ej8\\Form6.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T11:30:40.523Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form6.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form6.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form6.vb",
+              "RelativeToolTip": "Ej8\\Form6.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T11:30:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form3.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form3.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form3.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ej8\\Form3.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T11:59:45.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form1.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ej8\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-22T07:13:04.028Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form2.vb",
+              "RelativeDocumentMoniker": "Ej8\\Form2.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Ej8\\Ej8\\Form2.vb",
+              "RelativeToolTip": "Ej8\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T10:45:14.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

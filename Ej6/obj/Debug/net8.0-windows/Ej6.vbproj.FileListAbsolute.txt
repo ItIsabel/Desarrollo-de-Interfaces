@@ -1,0 +1,17 @@
+C:\Users\isabe\source\repos\Ej6\bin\Debug\net8.0-windows\Ej6.exe
+C:\Users\isabe\source\repos\Ej6\bin\Debug\net8.0-windows\Ej6.deps.json
+C:\Users\isabe\source\repos\Ej6\bin\Debug\net8.0-windows\Ej6.runtimeconfig.json
+C:\Users\isabe\source\repos\Ej6\bin\Debug\net8.0-windows\Ej6.dll
+C:\Users\isabe\source\repos\Ej6\bin\Debug\net8.0-windows\Ej6.pdb
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.Form1.resources
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.vbproj.GenerateResource.cache
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.AssemblyInfo.vb
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.vbproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.dll
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\refint\Ej6.dll
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.pdb
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.genruntimeconfig.cache
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\ref\Ej6.dll
+C:\Users\isabe\source\repos\Ej6\obj\Debug\net8.0-windows\Ej6.Resources.resources

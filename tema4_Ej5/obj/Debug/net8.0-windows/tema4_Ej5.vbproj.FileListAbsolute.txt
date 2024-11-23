@@ -1,0 +1,16 @@
+C:\Users\isabe\source\repos\tema4_Ej5\bin\Debug\net8.0-windows\tema4_Ej5.exe
+C:\Users\isabe\source\repos\tema4_Ej5\bin\Debug\net8.0-windows\tema4_Ej5.deps.json
+C:\Users\isabe\source\repos\tema4_Ej5\bin\Debug\net8.0-windows\tema4_Ej5.runtimeconfig.json
+C:\Users\isabe\source\repos\tema4_Ej5\bin\Debug\net8.0-windows\tema4_Ej5.dll
+C:\Users\isabe\source\repos\tema4_Ej5\bin\Debug\net8.0-windows\tema4_Ej5.pdb
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.Form1.resources
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.vbproj.GenerateResource.cache
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.AssemblyInfo.vb
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.vbproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.dll
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\refint\tema4_Ej5.dll
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.pdb
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\tema4_Ej5.genruntimeconfig.cache
+C:\Users\isabe\source\repos\tema4_Ej5\obj\Debug\net8.0-windows\ref\tema4_Ej5.dll

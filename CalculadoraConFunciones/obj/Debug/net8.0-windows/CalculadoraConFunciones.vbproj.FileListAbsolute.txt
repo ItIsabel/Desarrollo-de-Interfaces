@@ -1,0 +1,16 @@
+C:\Users\isabe\source\repos\CalculadoraConFunciones\bin\Debug\net8.0-windows\CalculadoraConFunciones.exe
+C:\Users\isabe\source\repos\CalculadoraConFunciones\bin\Debug\net8.0-windows\CalculadoraConFunciones.deps.json
+C:\Users\isabe\source\repos\CalculadoraConFunciones\bin\Debug\net8.0-windows\CalculadoraConFunciones.runtimeconfig.json
+C:\Users\isabe\source\repos\CalculadoraConFunciones\bin\Debug\net8.0-windows\CalculadoraConFunciones.dll
+C:\Users\isabe\source\repos\CalculadoraConFunciones\bin\Debug\net8.0-windows\CalculadoraConFunciones.pdb
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.Form1.resources
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.vbproj.GenerateResource.cache
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.AssemblyInfo.vb
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.vbproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.dll
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\refint\CalculadoraConFunciones.dll
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.pdb
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\CalculadoraConFunciones.genruntimeconfig.cache
+C:\Users\isabe\source\repos\CalculadoraConFunciones\obj\Debug\net8.0-windows\ref\CalculadoraConFunciones.dll
