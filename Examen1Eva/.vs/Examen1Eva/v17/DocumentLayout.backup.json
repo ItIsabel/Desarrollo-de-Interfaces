@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\formconfirmar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\formconfirmar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\formconfirmar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\formconfirmar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\forminfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\forminfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\formdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\formdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\forminfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\forminfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|c:\\users\\isabe\\source\\repos\\examen1eva\\examen1eva\\formdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA582732-9DF6-4DF0-902E-FBD834DF5BF9}|Examen1Eva\\Examen1Eva.vbproj|solutionrelative:examen1eva\\formdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormInfo.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormInfo.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\FormInfo.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormInfo.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Examen1Eva\\FormInfo.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T11:18:52.742Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\Form1.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\Form1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\Form1.vb",
+              "RelativeToolTip": "Examen1Eva\\Form1.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T10:29:38.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormConfirmar.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormConfirmar.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\FormConfirmar.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormConfirmar.vb",
+              "RelativeToolTip": "Examen1Eva\\FormConfirmar.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T12:30:50.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDatos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormDatos.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\FormDatos.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormDatos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Examen1Eva\\FormDatos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T10:56:25.199Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\Module1.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\Module1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\Module1.vb",
+              "RelativeToolTip": "Examen1Eva\\Module1.vb",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T12:21:07.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormConfirmar.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormConfirmar.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\FormConfirmar.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormConfirmar.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Examen1Eva\\FormConfirmar.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T12:19:55.617Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\Form1.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\Form1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Examen1Eva\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T10:21:28.933Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormInfo.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormInfo.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\FormInfo.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormInfo.vb",
+              "RelativeToolTip": "Examen1Eva\\FormInfo.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T11:47:30.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDatos.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormDatos.vb",
+              "RelativeDocumentMoniker": "Examen1Eva\\FormDatos.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Examen1Eva\\Examen1Eva\\FormDatos.vb",
+              "RelativeToolTip": "Examen1Eva\\FormDatos.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T12:04:17.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

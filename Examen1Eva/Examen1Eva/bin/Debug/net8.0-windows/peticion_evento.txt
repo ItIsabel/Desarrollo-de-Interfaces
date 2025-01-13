@@ -1,0 +1,5 @@
+RESUMEN DEL EVENTO
+------------------
+Tipo de evento: Jornada
+Número de personas: 50
+

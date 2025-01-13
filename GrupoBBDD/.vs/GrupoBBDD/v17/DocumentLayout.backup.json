@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\source\\repos\\GrupoBBDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C79B5A-21F3-4F87-9614-09540CD28B62}|GrupoBBDD\\GrupoBBDD.vbproj|c:\\users\\isabe\\source\\repos\\grupobbdd\\grupobbdd\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3C79B5A-21F3-4F87-9614-09540CD28B62}|GrupoBBDD\\GrupoBBDD.vbproj|solutionrelative:grupobbdd\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C79B5A-21F3-4F87-9614-09540CD28B62}|GrupoBBDD\\GrupoBBDD.vbproj|C:\\Users\\isabe\\source\\repos\\GrupoBBDD\\grupobbdd\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3C79B5A-21F3-4F87-9614-09540CD28B62}|GrupoBBDD\\GrupoBBDD.vbproj|solutionrelative:grupobbdd\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\GrupoBBDD\\GrupoBBDD\\Form1.vb",
+              "RelativeDocumentMoniker": "GrupoBBDD\\Form1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\GrupoBBDD\\GrupoBBDD\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "GrupoBBDD\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T10:28:23.914Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\GrupoBBDD\\GrupoBBDD\\Form1.vb",
+              "RelativeDocumentMoniker": "GrupoBBDD\\Form1.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\GrupoBBDD\\GrupoBBDD\\Form1.vb",
+              "RelativeToolTip": "GrupoBBDD\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T11:06:14.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

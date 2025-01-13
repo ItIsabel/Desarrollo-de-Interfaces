@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|c:\\users\\isabe\\source\\repos\\ejercicioopcional\\ejercicioopcional\\formhijoconfirmacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|solutionrelative:ejercicioopcional\\formhijoconfirmacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|c:\\users\\isabe\\source\\repos\\ejercicioopcional\\ejercicioopcional\\formhijoenvio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|solutionrelative:ejercicioopcional\\formhijoenvio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|c:\\users\\isabe\\source\\repos\\ejercicioopcional\\ejercicioopcional\\formhijoconfirmacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|solutionrelative:ejercicioopcional\\formhijoconfirmacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|c:\\users\\isabe\\source\\repos\\ejercicioopcional\\ejercicioopcional\\formhijoconfirmacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|solutionrelative:ejercicioopcional\\formhijoconfirmacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{012B8EE3-0892-4A2A-AA38-E4736AE1ECAA}|EjercicioOpcional\\EjercicioOpcional.vbproj|c:\\users\\isabe\\source\\repos\\ejercicioopcional\\ejercicioopcional\\moduloinfonumprod.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,27 +74,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormHijoConfirmacion.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHijoConfirmacion.vb",
-              "RelativeDocumentMoniker": "EjercicioOpcional\\FormHijoConfirmacion.vb",
-              "ToolTip": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHijoConfirmacion.vb [Dise\u00F1o]",
-              "RelativeToolTip": "EjercicioOpcional\\FormHijoConfirmacion.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-10T11:57:32.38Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FormHijoConfirmacion.vb",
               "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHijoConfirmacion.vb",
               "RelativeDocumentMoniker": "EjercicioOpcional\\FormHijoConfirmacion.vb",
               "ToolTip": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHijoConfirmacion.vb",
               "RelativeToolTip": "EjercicioOpcional\\FormHijoConfirmacion.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-11T12:10:22.403Z"
+              "WhenOpened": "2024-11-11T12:10:22.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -110,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormHIjoEnvio.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHIjoEnvio.vb",
               "RelativeDocumentMoniker": "EjercicioOpcional\\FormHIjoEnvio.vb",
@@ -122,16 +111,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormHIjoEnvio.vb",
               "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHIjoEnvio.vb",
               "RelativeDocumentMoniker": "EjercicioOpcional\\FormHIjoEnvio.vb",
               "ToolTip": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHIjoEnvio.vb",
               "RelativeToolTip": "EjercicioOpcional\\FormHIjoEnvio.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAtwA4AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwAkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-11T09:09:10.632Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHijoConfirmacion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHijoConfirmacion.vb",
+              "RelativeDocumentMoniker": "EjercicioOpcional\\FormHijoConfirmacion.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\EjercicioOpcional\\EjercicioOpcional\\FormHijoConfirmacion.vb [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioOpcional\\FormHijoConfirmacion.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-10T11:57:32.38Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",

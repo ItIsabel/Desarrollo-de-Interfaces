@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{5C9C91EA-AB33-4904-B9DA-3B0D41AE9E6B}|EJ01_2EVA\\EJ01_2EVA.vbproj|solutionrelative:ej01_2eva\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C9C91EA-AB33-4904-B9DA-3B0D41AE9E6B}|EJ01_2EVA\\EJ01_2EVA.vbproj|c:\\users\\isabe\\source\\repos\\ej01_2eva\\ej01_2eva\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5C9C91EA-AB33-4904-B9DA-3B0D41AE9E6B}|EJ01_2EVA\\EJ01_2EVA.vbproj|solutionrelative:ej01_2eva\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C9C91EA-AB33-4904-B9DA-3B0D41AE9E6B}|EJ01_2EVA\\EJ01_2EVA.vbproj|c:\\users\\isabe\\source\\repos\\ej01_2eva\\ej01_2eva\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5C9C91EA-AB33-4904-B9DA-3B0D41AE9E6B}|EJ01_2EVA\\EJ01_2EVA.vbproj|solutionrelative:ej01_2eva\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9C91EA-AB33-4904-B9DA-3B0D41AE9E6B}|EJ01_2EVA\\EJ01_2EVA.vbproj|c:\\users\\isabe\\source\\repos\\ej01_2eva\\ej01_2eva\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5C9C91EA-AB33-4904-B9DA-3B0D41AE9E6B}|EJ01_2EVA\\EJ01_2EVA.vbproj|solutionrelative:ej01_2eva\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form1.vb",
-              "RelativeDocumentMoniker": "EJ01_2EVA\\Form1.vb",
-              "ToolTip": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form1.vb*",
-              "RelativeToolTip": "EJ01_2EVA\\Form1.vb*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form2.vb",
+              "RelativeDocumentMoniker": "EJ01_2EVA\\Form2.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form2.vb",
+              "RelativeToolTip": "EJ01_2EVA\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-19T09:37:59.366Z",
+              "WhenOpened": "2024-11-23T15:39:40.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form2.vb",
+              "RelativeDocumentMoniker": "EJ01_2EVA\\Form2.vb",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "EJ01_2EVA\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-21T09:47:09.089Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form1.vb",
               "RelativeDocumentMoniker": "EJ01_2EVA\\Form1.vb",
-              "ToolTip": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form1.vb [Dise\u00F1o]*",
-              "RelativeToolTip": "EJ01_2EVA\\Form1.vb [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\EJ01_2EVA\\EJ01_2EVA\\Form1.vb",
+              "RelativeToolTip": "EJ01_2EVA\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-19T09:35:16.117Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-19T09:37:59.366Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,12 @@
+C:\Users\isabe\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\isabe\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\isabe\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\isabe\source\repos\Agenda\Agenda\bin\Debug\Agenda.xml
+C:\Users\isabe\source\repos\Agenda\Agenda\obj\Debug\Agenda.vbproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\isabe\source\repos\Agenda\Agenda\obj\Debug\Agenda.Resources.resources
+C:\Users\isabe\source\repos\Agenda\Agenda\obj\Debug\Agenda.vbproj.GenerateResource.cache
+C:\Users\isabe\source\repos\Agenda\Agenda\obj\Debug\Agenda.vbproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\isabe\source\repos\Agenda\Agenda\obj\Debug\Agenda.xml
+C:\Users\isabe\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb

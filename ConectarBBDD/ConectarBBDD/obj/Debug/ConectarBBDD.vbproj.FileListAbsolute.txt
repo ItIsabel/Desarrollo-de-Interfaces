@@ -1,0 +1,12 @@
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\bin\Debug\ConectarBBDD.exe.config
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\bin\Debug\ConectarBBDD.exe
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\bin\Debug\ConectarBBDD.pdb
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\bin\Debug\ConectarBBDD.xml
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\obj\Debug\ConectarBBDD.vbproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\obj\Debug\ConectarBBDD.Form1.resources
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\obj\Debug\ConectarBBDD.Resources.resources
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\obj\Debug\ConectarBBDD.vbproj.GenerateResource.cache
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\obj\Debug\ConectarBBDD.vbproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\obj\Debug\ConectarBBDD.exe
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\obj\Debug\ConectarBBDD.xml
+C:\Users\isabe\source\repos\ConectarBBDD\ConectarBBDD\obj\Debug\ConectarBBDD.pdb

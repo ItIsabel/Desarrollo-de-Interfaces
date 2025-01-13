@@ -50,3 +50,5 @@ C:\Users\isabe\source\repos\EJ01_2EVA\EJ01_2EVA\obj\Debug\net8.0-windows\refint\
 C:\Users\isabe\source\repos\EJ01_2EVA\EJ01_2EVA\obj\Debug\net8.0-windows\EJ01_2EVA.pdb
 C:\Users\isabe\source\repos\EJ01_2EVA\EJ01_2EVA\obj\Debug\net8.0-windows\EJ01_2EVA.genruntimeconfig.cache
 C:\Users\isabe\source\repos\EJ01_2EVA\EJ01_2EVA\obj\Debug\net8.0-windows\ref\EJ01_2EVA.dll
+C:\Users\isabe\source\repos\EJ01_2EVA\EJ01_2EVA\obj\Debug\net8.0-windows\EJ01_2EVA.Form2.resources
+C:\Users\isabe\source\repos\EJ01_2EVA\EJ01_2EVA\obj\Debug\net8.0-windows\EJ01_2EVA.sourcelink.json
